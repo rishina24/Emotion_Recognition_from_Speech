@@ -1,0 +1,8 @@
+vox-sense-ai/ml/data/RAVDESS/
+vox-sense-ai/backend/.venv310/
+__pycache__/
+*.pyc
+.venv/
+.venv310/
+node_modules/
+vox-sense-ai/ml/data/RAVDESS/

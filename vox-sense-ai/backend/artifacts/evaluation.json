@@ -1,0 +1,23 @@
+{
+  "test_accuracy": 0.39166666666666666,
+  "test_macro_f1": 0.36029830778735056,
+  "best_val_accuracy": 0.38333333333333336,
+  "n_test_samples": 120,
+  "test_actors": [
+    23,
+    24
+  ],
+  "evaluation_methodology": "Speaker-independent hold-out (actors 23-24 as test set)",
+  "classes": [
+    "neutral",
+    "calm",
+    "happy",
+    "sad",
+    "angry",
+    "fearful",
+    "disgust",
+    "surprised"
+  ],
+  "model_version": "20261019_210900",
+  "timestamp": "2026-10-19T21:39:15.281231"
+}
